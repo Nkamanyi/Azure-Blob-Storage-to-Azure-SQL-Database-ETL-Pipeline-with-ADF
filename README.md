@@ -1,4 +1,4 @@
-# Blob-Storage-to-SQL-Database-ETL-Pipeline-with-Azure-Data-Factory
+## Blob-Storage-to-SQL-Database-ETL-Pipeline-with-Azure-Data-Factory
 In this project, I perform the following steps:
 
 - Create Azure storage account(source data store).
